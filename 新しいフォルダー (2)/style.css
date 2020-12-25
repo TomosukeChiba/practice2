@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  background-color: orange;
+  margin: auto;
+}
+
+h2 {
+  display: block;
+  grid-row: 4px;
+  padding: 1px 20px 58px;
+}
+
+h3 {
+  color: pink;
+}
